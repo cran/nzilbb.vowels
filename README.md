@@ -1,12 +1,14 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# nzilbb.vowels <a href="https://nzilbb.github.io/nzilbb_vowels/"><img src="man/figures/logo.png" align="right" height="138" alt="nzilbb.vowels website" /></a>
+# nzilbb.vowels: Vowel Covariation Tools <a href="https://nzilbb.github.io/nzilbb_vowels/"><img src="man/figures/logo.png" align="right" height="138" alt="nzilbb.vowels website" /></a>
 
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/nzilbb/nzilbb_vowels/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/nzilbb/nzilbb_vowels/actions/workflows/R-CMD-check.yaml)
 [![DOI](https://zenodo.org/badge/563172693.svg)](https://doi.org/10.5281/zenodo.8303223)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/nzilbb.vowels)](https://CRAN.R-project.org/package=nzilbb.vowels)
 <!-- badges: end -->
 
 The `nzilbb.vowels` packages contains useful functions and data for the

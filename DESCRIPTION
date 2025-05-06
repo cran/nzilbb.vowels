@@ -1,7 +1,7 @@
 Package: nzilbb.vowels
 Type: Package
 Title: Vowel Covariation Tools
-Version: 0.3.1
+Version: 0.4.1
 Authors@R: c(
   person(
     "Joshua", "Wilson Black", 
@@ -25,16 +25,18 @@ Suggests: knitr, rmarkdown, testthat (>= 3.0.0), vdiffr
 Config/testthat/edition: 3
 Imports: dplyr, ggplot2, magrittr, rlang, rstudioapi, tibble, tidyr,
         forcats, glue, purrr, tidyselect, rsample, stringr, ggrepel,
-        gghalves, smacof, Rdpack, lifecycle
+        gghalves, smacof, Rdpack, lifecycle, vegan
 RdMacros: Rdpack
 URL: https://nzilbb.github.io/nzilbb_vowels/,
         https://github.com/nzilbb/nzilbb_vowels
-BugReports: https://github.com/nzilbb/nzilbb_vowels/issues/
+BugReports: https://github.com/nzilbb/nzilbb_vowels/issues
+Config/Needs/website: rmarkdown, bookdown, tidyverse, ggcorrplot, mgcv,
+        itsadug, broom, gganimate, grateful, gifski
 NeedsCompilation: no
-Packaged: 2024-11-28 21:13:09 UTC; jbl91
-Author: Joshua Wilson Black [aut, cre, cph]
-    (<https://orcid.org/0000-0002-8272-5763>),
-  James Brand [aut] (<https://orcid.org/0000-0002-2853-9169>)
+Packaged: 2025-05-06 00:19:15 UTC; jbl91
+Author: Joshua Wilson Black [aut, cre, cph] (ORCID:
+    <https://orcid.org/0000-0002-8272-5763>),
+  James Brand [aut] (ORCID: <https://orcid.org/0000-0002-2853-9169>)
 Maintainer: Joshua Wilson Black <joshua@wilsonblack.nz>
 Repository: CRAN
-Date/Publication: 2024-11-29 09:40:03 UTC
+Date/Publication: 2025-05-06 04:10:02 UTC
