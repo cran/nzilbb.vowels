@@ -1,11 +1,12 @@
 Package: nzilbb.vowels
 Type: Package
 Title: Vowel Covariation Tools
-Version: 0.4.1
+Version: 0.4.2
 Authors@R: c(
   person(
     "Joshua", "Wilson Black", 
-    email = "joshua@wilsonblack.nz", role = c("aut", "cre", "cph"),
+    email = "joshua.black@canterbury.ac.nz", 
+    role = c("aut", "cre", "cph"),
     comment = c(ORCID = "https://orcid.org/0000-0002-8272-5763")
   ),
   person("James", "Brand",
@@ -20,12 +21,12 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 4.1), patchwork
-RoxygenNote: 7.3.2.9000
+RoxygenNote: 7.3.2
 Suggests: knitr, rmarkdown, testthat (>= 3.0.0), vdiffr
 Config/testthat/edition: 3
 Imports: dplyr, ggplot2, magrittr, rlang, rstudioapi, tibble, tidyr,
         forcats, glue, purrr, tidyselect, rsample, stringr, ggrepel,
-        gghalves, smacof, Rdpack, lifecycle, vegan
+        gghalves, smacof, Rdpack, lifecycle
 RdMacros: Rdpack
 URL: https://nzilbb.github.io/nzilbb_vowels/,
         https://github.com/nzilbb/nzilbb_vowels
@@ -33,10 +34,10 @@ BugReports: https://github.com/nzilbb/nzilbb_vowels/issues
 Config/Needs/website: rmarkdown, bookdown, tidyverse, ggcorrplot, mgcv,
         itsadug, broom, gganimate, grateful, gifski
 NeedsCompilation: no
-Packaged: 2025-05-06 00:19:15 UTC; jbl91
+Packaged: 2025-12-03 00:30:10 UTC; jbl91
 Author: Joshua Wilson Black [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0002-8272-5763>),
   James Brand [aut] (ORCID: <https://orcid.org/0000-0002-2853-9169>)
-Maintainer: Joshua Wilson Black <joshua@wilsonblack.nz>
+Maintainer: Joshua Wilson Black <joshua.black@canterbury.ac.nz>
 Repository: CRAN
-Date/Publication: 2025-05-06 04:10:02 UTC
+Date/Publication: 2025-12-04 08:20:07 UTC
