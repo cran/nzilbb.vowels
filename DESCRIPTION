@@ -1,7 +1,7 @@
 Package: nzilbb.vowels
 Type: Package
 Title: Vowel Covariation Tools
-Version: 0.4.2
+Version: 0.4.3
 Authors@R: c(
   person(
     "Joshua", "Wilson Black", 
@@ -21,12 +21,12 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 4.1), patchwork
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 Suggests: knitr, rmarkdown, testthat (>= 3.0.0), vdiffr
 Config/testthat/edition: 3
 Imports: dplyr, ggplot2, magrittr, rlang, rstudioapi, tibble, tidyr,
         forcats, glue, purrr, tidyselect, rsample, stringr, ggrepel,
-        gghalves, smacof, Rdpack, lifecycle
+        smacof, Rdpack, lifecycle
 RdMacros: Rdpack
 URL: https://nzilbb.github.io/nzilbb_vowels/,
         https://github.com/nzilbb/nzilbb_vowels
@@ -34,10 +34,10 @@ BugReports: https://github.com/nzilbb/nzilbb_vowels/issues
 Config/Needs/website: rmarkdown, bookdown, tidyverse, ggcorrplot, mgcv,
         itsadug, broom, gganimate, grateful, gifski
 NeedsCompilation: no
-Packaged: 2025-12-03 00:30:10 UTC; jbl91
+Packaged: 2025-12-17 01:34:14 UTC; jbl91
 Author: Joshua Wilson Black [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0002-8272-5763>),
   James Brand [aut] (ORCID: <https://orcid.org/0000-0002-2853-9169>)
 Maintainer: Joshua Wilson Black <joshua.black@canterbury.ac.nz>
 Repository: CRAN
-Date/Publication: 2025-12-04 08:20:07 UTC
+Date/Publication: 2025-12-17 07:50:02 UTC

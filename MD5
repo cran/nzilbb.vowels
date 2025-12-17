@@ -1,8 +1,8 @@
-547204e0f24bea6f92cbdc6a7f87ce3a *DESCRIPTION
+5646106d7868b8f4884ddf0114f418a4 *DESCRIPTION
 d5026f093c4f017739eb230202074748 *LICENSE
-af57a21944c2b8ba38f7e01a7ac1eacb *NAMESPACE
-280bd60241e31eecaa16290a4df706e2 *NEWS.md
-d6c2fabb7b735192fc4e3394976204ca *R/correlation_plots.R
+a20da8dafb804d38e3c0722195746b9c *NAMESPACE
+4df9c8b95fc6d4e6c64b47dcd2a74f3b *NEWS.md
+eb869a757e6af6b8f798a2333e6425cb *R/correlation_plots.R
 9757eecbf8028774eef246977b1bd7cc *R/correlation_test.R
 fbeae9643b4b5dcef2ac48818297039b *R/data.R
 f67283957dfc1a7075c4f6b0fe90bb56 *R/lobanov_2.R
@@ -36,8 +36,8 @@ a48c4349eb8e6e25d909023fd2967568 *inst/CITATION
 0fc5bc1b9623b6363a95cc2d7815045b *inst/rstudio/addins.dcf
 78efac69205841a388cd34c93c9d85a6 *man/correlation_test.Rd
 1073ed72e295d91ebeac2664e2f63195 *man/figures/README-addin.png
-2b9e9a4ab497c7d9d3eb07cff0e7b904 *man/figures/README-unnamed-chunk-2-1.png
-37cfe6bd2c6fa694497dab81a05254eb *man/figures/README-unnamed-chunk-2-2.png
+358918722354ab2b43c3533076727147 *man/figures/README-unnamed-chunk-2-1.png
+70e1d127ed95f30a4ae8a5107b1bf197 *man/figures/README-unnamed-chunk-2-2.png
 490ae37d48d0b891d6dbed31b6edf33d *man/figures/README-unnamed-chunk-2-3.png
 8e41548102317080e30ca93cfb5897ad *man/figures/README-unnamed-chunk-3-1.png
 c8fe1dcca76e2906f3386251ae292a84 *man/figures/README-unnamed-chunk-3-2.png
@@ -65,7 +65,7 @@ c6dfbfb537c6e686c8aad80ec09ace26 *man/pca_contrib_plot.Rd
 e7e65cee573bbfff8cdee98e4b93fd3c *man/pca_rotate_procrustes.Rd
 aff3c749ff607b107373c85f6b44c9cb *man/pca_test.Rd
 33693dc99c77497e41b4fe28a3e0ca40 *man/permutation_test.Rd
-d9645daba6a9927d119bd57fbdedd015 *man/plot_correlation_counts.Rd
+104c675a93060f5b4faa0a1b869331d0 *man/plot_correlation_counts.Rd
 e6b5fc87bc7e8ffa8d2c5b0b51142b6b *man/plot_correlation_magnitudes.Rd
 0f22ff700d925708dcf7f6c6615eb243 *man/plot_loadings.Rd
 592f79268c02111c0a14492dc5a9d323 *man/plot_mds_test.Rd
